@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StrawberryCake</string>
+    <string name="desc">This Dessert is very tasty and not very hard to prepare. and please pay attention that you can replace strawberry with any another fruit you like</string>
+    <string name="you_might_like">You Might Also Like</string>
+    <string name="similar_foods">Similar Foods</string>
+    <string name="show_more">Show More</string>
+    <string name="hotDog">HotDog</string>
+    <string name="fast_food">Fast Foods</string>
+    <string name="t_12">12$</string>
+    <string name="t_5">5$</string>
+    <string name="t_20">20$</string>
+    <string name="t_30">30$</string>
+    <string name="donat">Donat</string>
+    <string name="desserts">Desserts</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="apple_pie">Apple Pie</string>
+    <string name="similar_redipes">Similar Recipes</string>
+    <string name="you_can_read_these">You Can Also Read These...</string>
+    <string name="cheese_cake">Cheese Cake</string>
+    <string name="beginner">Beginner</string>
+    <string name="cup_cake">Cup Cake</string>
+    <string name="ex_2_y">+2 Years Experience</string>
+    <string name="berry_cake">Berry Cake</string>
+</resources>
